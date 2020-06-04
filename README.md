@@ -2,6 +2,8 @@
 
 改装chompie1337大佬的工具， 用于在Metasploit 上玩耍它。
 
+https://github.com/chompie1337/SMBGhost_RCE_PoC
+
 
 玩耍方法：
 
